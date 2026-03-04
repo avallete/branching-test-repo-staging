@@ -4,3 +4,6 @@
 [submodule "vendor/auth-helpers"]
 	path = vendor/auth-helpers
 	url = https://github.com/supabase/auth-helpers.git
+[submodule "vendor/realtime-js"]
+	path = vendor/realtime-js
+	url = https://github.com/supabase/realtime-js.git
