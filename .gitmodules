@@ -1,3 +1,6 @@
 [submodule "vendor/supabase-js"]
 	path = vendor/supabase-js
 	url = https://github.com/supabase/supabase-js.git
+[submodule "vendor/auth-helpers"]
+	path = vendor/auth-helpers
+	url = https://github.com/supabase/auth-helpers.git
