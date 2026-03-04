@@ -3,7 +3,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "generate": "cd generator && npm install && npx tsx index.ts",
+    "generate:skip-git": "cd generator && npm install && npx tsx index.ts --skip-git"
   },
   "dependencies": {
     "@supabase/ssr": "latest",
