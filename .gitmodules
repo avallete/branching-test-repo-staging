@@ -1,0 +1,3 @@
+[submodule "vendor/supabase-js"]
+	path = vendor/supabase-js
+	url = https://github.com/supabase/supabase-js.git
