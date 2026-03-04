@@ -1,0 +1,591 @@
+{
+  "commemoro_sapiente": {
+    "enabled": true,
+    "value": "Degenero suus adeo hic natus vitiosus.",
+    "priority": 8,
+    "tags": [
+      "cubicularis",
+      "ater",
+      "iure"
+    ]
+  },
+  "armarium_ustilo": {
+    "enabled": false,
+    "value": "Quia aggredior arbor casus voveo usitas vehemens corona deprecator.",
+    "priority": 7,
+    "tags": [
+      "desipio",
+      "atrocitas"
+    ]
+  },
+  "uxor_asporto": {
+    "enabled": false,
+    "value": "Aspernatur amor ars asporto maiores.",
+    "priority": 5,
+    "tags": [
+      "corporis",
+      "cinis"
+    ]
+  },
+  "subnecto_sublime": {
+    "enabled": true,
+    "value": "Defluo demitto arbitro tersus tersus.",
+    "priority": 0,
+    "tags": [
+      "distinctio",
+      "congregatio",
+      "cena",
+      "alias"
+    ]
+  },
+  "paulatim_dolor": {
+    "enabled": false,
+    "value": "Decimus pel sortitus stillicidium aperiam.",
+    "priority": 6,
+    "tags": [
+      "tactus",
+      "cupiditas",
+      "stella",
+      "corrigo"
+    ]
+  },
+  "tollo_alii": {
+    "enabled": true,
+    "value": "Taceo varius adfectus ad compono accusantium viridis adduco suasoria.",
+    "priority": 3,
+    "tags": [
+      "cavus",
+      "ustilo",
+      "vulpes"
+    ]
+  },
+  "cultellus_officia": {
+    "enabled": true,
+    "value": "Terror timidus varius esse cerno curiositas voluptatum surgo.",
+    "priority": 2,
+    "tags": [
+      "causa",
+      "laboriosam",
+      "accedo"
+    ]
+  },
+  "necessitatibus_comptus": {
+    "enabled": false,
+    "value": "Alii aequus claustrum.",
+    "priority": 3,
+    "tags": [
+      "uberrime",
+      "cupiditate",
+      "averto"
+    ]
+  },
+  "repudiandae_admoveo": {
+    "enabled": false,
+    "value": "Crapula cuppedia tamisium alii vester administratio caecus collum angulus pectus.",
+    "priority": 8,
+    "tags": [
+      "temeritas",
+      "perferendis",
+      "aeger",
+      "tutis"
+    ]
+  },
+  "uberrime_thalassinus": {
+    "enabled": false,
+    "value": "Arguo stabilis porro aequus subvenio addo ipsum amitto ascit.",
+    "priority": 7,
+    "tags": [
+      "succurro",
+      "caput",
+      "desino"
+    ]
+  },
+  "tener_tubineus": {
+    "enabled": true,
+    "value": "Censura carbo tonsor dicta est aeternus basium cariosus.",
+    "priority": 2,
+    "tags": [
+      "clam",
+      "perferendis",
+      "adeo"
+    ]
+  },
+  "altus_acerbitas": {
+    "enabled": false,
+    "value": "Sequi abscido tergo.",
+    "priority": 9,
+    "tags": [
+      "acquiro",
+      "toties",
+      "vomica"
+    ]
+  },
+  "concido_aequus": {
+    "enabled": true,
+    "value": "Magnam celebrer coma succurro vulariter tonsor torrens aureus.",
+    "priority": 3,
+    "tags": [
+      "temptatio",
+      "tabesco",
+      "argentum",
+      "aetas",
+      "aperio"
+    ]
+  },
+  "amaritudo_ara": {
+    "enabled": false,
+    "value": "Trado nobis vomer.",
+    "priority": 2,
+    "tags": [
+      "artificiose",
+      "suus",
+      "repudiandae",
+      "voveo",
+      "admitto"
+    ]
+  },
+  "viriliter_venio": {
+    "enabled": true,
+    "value": "Cupiditate soleo demulceo decumbo demulceo arto benevolentia nemo depono suscipit.",
+    "priority": 2,
+    "tags": [
+      "tolero",
+      "acceptus"
+    ]
+  },
+  "caste_cedo": {
+    "enabled": true,
+    "value": "Odio tergeo magni crur advenio creptio.",
+    "priority": 3,
+    "tags": [
+      "bardus",
+      "acervus"
+    ]
+  },
+  "trepide_carpo": {
+    "enabled": true,
+    "value": "Defaeco sto succurro sequi carbo iure depopulo vel video verus.",
+    "priority": 5,
+    "tags": [
+      "spectaculum",
+      "stillicidium",
+      "consequuntur",
+      "aestivus",
+      "aestivus"
+    ]
+  },
+  "conduco_vehemens": {
+    "enabled": true,
+    "value": "Circumvenio tremo vulnus.",
+    "priority": 5,
+    "tags": [
+      "solium",
+      "cunabula",
+      "tamquam"
+    ]
+  },
+  "aiunt_arca": {
+    "enabled": true,
+    "value": "Vitae suffragium inventore quia vulgivagus color ubi certus.",
+    "priority": 8,
+    "tags": [
+      "demulceo",
+      "solio",
+      "somniculosus",
+      "virga",
+      "tabernus"
+    ]
+  },
+  "ager_adflicto": {
+    "enabled": true,
+    "value": "Brevis voluntarius debilito defero deserunt demum talio.",
+    "priority": 8,
+    "tags": [
+      "alveus",
+      "spiritus",
+      "coerceo",
+      "administratio"
+    ]
+  },
+  "summopere_crepusculum": {
+    "enabled": true,
+    "value": "Cernuus admoveo colligo animus audio tertius.",
+    "priority": 5,
+    "tags": [
+      "centum",
+      "pel",
+      "dignissimos"
+    ]
+  },
+  "vicinus_tactus": {
+    "enabled": true,
+    "value": "Victoria corpus charisma titulus cupiditas magni comitatus cedo.",
+    "priority": 1,
+    "tags": [
+      "sumo",
+      "summa"
+    ]
+  },
+  "comprehendo_denuo": {
+    "enabled": true,
+    "value": "Sequi conduco desipio a incidunt.",
+    "priority": 3,
+    "tags": [
+      "iste",
+      "dedecor"
+    ]
+  },
+  "arbitro_non": {
+    "enabled": true,
+    "value": "Solio exercitationem consectetur.",
+    "priority": 0,
+    "tags": [
+      "tantillus",
+      "videlicet",
+      "ultio",
+      "terebro"
+    ]
+  },
+  "usque_vomica": {
+    "enabled": false,
+    "value": "Conservo sopor sto confero asperiores accusantium cetera.",
+    "priority": 1,
+    "tags": [
+      "consequatur",
+      "comes"
+    ]
+  },
+  "consectetur_alter": {
+    "enabled": false,
+    "value": "Cruentus cetera adfero verbum tamen amiculum vicissitudo valetudo universe.",
+    "priority": 9,
+    "tags": [
+      "demitto",
+      "arx",
+      "curto",
+      "repellat"
+    ]
+  },
+  "utilis_tego": {
+    "enabled": true,
+    "value": "Terreo arma allatus spectaculum cognatus complectus caterva carpo annus copiose.",
+    "priority": 2,
+    "tags": [
+      "animus",
+      "caput",
+      "tempore",
+      "asperiores"
+    ]
+  },
+  "deserunt_comes": {
+    "enabled": true,
+    "value": "Adeptio laborum possimus vere vitiosus aurum ancilla animi usus vomica.",
+    "priority": 9,
+    "tags": [
+      "consequatur",
+      "corrigo",
+      "cuppedia",
+      "vos"
+    ]
+  },
+  "synagoga_quo": {
+    "enabled": true,
+    "value": "Utilis charisma vilis supplanto quibusdam cultura crapula demitto quo.",
+    "priority": 5,
+    "tags": [
+      "nemo",
+      "appositus",
+      "veniam",
+      "conspergo",
+      "cuius"
+    ]
+  },
+  "solium_vestigium": {
+    "enabled": false,
+    "value": "Aro confido tandem viriliter vel cresco compono sublime adulescens acervus.",
+    "priority": 4,
+    "tags": [
+      "reiciendis",
+      "valde",
+      "vindico",
+      "aer",
+      "tersus"
+    ]
+  },
+  "appono_pecus": {
+    "enabled": true,
+    "value": "Aeger bestia vinitor.",
+    "priority": 6,
+    "tags": [
+      "laborum",
+      "avarus",
+      "decimus",
+      "quae"
+    ]
+  },
+  "sui_sub": {
+    "enabled": false,
+    "value": "Adflicto sperno praesentium cubitum advoco ancilla tabesco defungo aduro solio.",
+    "priority": 3,
+    "tags": [
+      "adflicto",
+      "animus"
+    ]
+  },
+  "thalassinus_tubineus": {
+    "enabled": true,
+    "value": "Dignissimos clarus bestia sursum nam accusator canto viscus.",
+    "priority": 2,
+    "tags": [
+      "suasoria",
+      "explicabo",
+      "theologus",
+      "asper",
+      "valeo"
+    ]
+  },
+  "tandem_temperantia": {
+    "enabled": true,
+    "value": "Cerno summa cohors utroque.",
+    "priority": 1,
+    "tags": [
+      "torqueo",
+      "suus",
+      "avaritia",
+      "cubicularis",
+      "adipisci"
+    ]
+  },
+  "vulgus_culpa": {
+    "enabled": false,
+    "value": "Cohibeo ager solium cubo decretum aurum volaticus depromo.",
+    "priority": 1,
+    "tags": [
+      "sublime",
+      "amplus"
+    ]
+  },
+  "sponte_vigor": {
+    "enabled": false,
+    "value": "Viridis quod tricesimus demergo virgo aranea somniculosus praesentium delinquo.",
+    "priority": 0,
+    "tags": [
+      "tribuo",
+      "appono",
+      "debitis"
+    ]
+  },
+  "urbs_deripio": {
+    "enabled": false,
+    "value": "Aduro delinquo theca.",
+    "priority": 5,
+    "tags": [
+      "praesentium",
+      "sint",
+      "subseco",
+      "tot"
+    ]
+  },
+  "dedecor_asporto": {
+    "enabled": true,
+    "value": "Soluta ipsa videlicet confido.",
+    "priority": 0,
+    "tags": [
+      "soluta",
+      "conservo",
+      "vetus"
+    ]
+  },
+  "vallum_cognomen": {
+    "enabled": false,
+    "value": "Ambulo cubo corona amoveo tabernus.",
+    "priority": 4,
+    "tags": [
+      "adflicto",
+      "deorsum"
+    ]
+  },
+  "aiunt_aufero": {
+    "enabled": false,
+    "value": "Decerno tollo delectatio suus delinquo.",
+    "priority": 10,
+    "tags": [
+      "conscendo",
+      "ascisco",
+      "amplus",
+      "concido"
+    ]
+  },
+  "ter_amita": {
+    "enabled": true,
+    "value": "Suscipit agnosco sed demoror ait spargo vulariter custodia.",
+    "priority": 1,
+    "tags": [
+      "clibanus",
+      "thema",
+      "illo"
+    ]
+  },
+  "cedo_audeo": {
+    "enabled": false,
+    "value": "Calculus vomica basium studio demoror degenero.",
+    "priority": 0,
+    "tags": [
+      "numquam",
+      "deputo"
+    ]
+  },
+  "curvo_sodalitas": {
+    "enabled": true,
+    "value": "Creo coruscus auctor volo compono tubineus.",
+    "priority": 9,
+    "tags": [
+      "deripio",
+      "paens",
+      "officia",
+      "sollers",
+      "cariosus"
+    ]
+  },
+  "ipsa_vivo": {
+    "enabled": true,
+    "value": "Autem rerum tum cribro urbs arma asper.",
+    "priority": 0,
+    "tags": [
+      "sequi",
+      "tumultus",
+      "cunctatio",
+      "alter",
+      "teres"
+    ]
+  },
+  "numquam_cubitum": {
+    "enabled": true,
+    "value": "Acceptus tui creta crastinus vulariter animadverto vinco alius copiose teneo.",
+    "priority": 3,
+    "tags": [
+      "cedo",
+      "curso"
+    ]
+  },
+  "ventus_audeo": {
+    "enabled": false,
+    "value": "Vespillo aedificium bestia cunctatio stabilis vorax.",
+    "priority": 10,
+    "tags": [
+      "victus",
+      "demo",
+      "confugo",
+      "taceo"
+    ]
+  },
+  "cometes_suasoria": {
+    "enabled": true,
+    "value": "Abeo tenetur aeger aro depopulo omnis adopto molestias cervus.",
+    "priority": 1,
+    "tags": [
+      "paulatim",
+      "terminatio"
+    ]
+  },
+  "thema_conqueror": {
+    "enabled": true,
+    "value": "Ab autus tametsi doloribus teres centum terra defaeco.",
+    "priority": 9,
+    "tags": [
+      "cursus",
+      "ambitus"
+    ]
+  },
+  "aegrus_absconditus": {
+    "enabled": false,
+    "value": "Clam una pecto cometes urbs.",
+    "priority": 5,
+    "tags": [
+      "degenero",
+      "consequuntur",
+      "vinco",
+      "nisi",
+      "velociter"
+    ]
+  },
+  "vulgaris_varietas": {
+    "enabled": false,
+    "value": "Ipsam spiculum certus curia tolero deinde audio.",
+    "priority": 1,
+    "tags": [
+      "surculus",
+      "demitto"
+    ]
+  },
+  "reprehenderit_desparatus": {
+    "enabled": false,
+    "value": "Desolo credo acidus demonstro.",
+    "priority": 9,
+    "tags": [
+      "tenus",
+      "aestas",
+      "amor"
+    ]
+  },
+  "comburo_audentia": {
+    "enabled": true,
+    "value": "Tolero corrigo adimpleo pauper degusto tersus.",
+    "priority": 6,
+    "tags": [
+      "surgo",
+      "defaeco"
+    ]
+  },
+  "trado_dedecor": {
+    "enabled": false,
+    "value": "Trepide addo inflammatio vulgivagus odit ancilla.",
+    "priority": 10,
+    "tags": [
+      "acerbitas",
+      "atque",
+      "angulus",
+      "sollers",
+      "spiculum"
+    ]
+  },
+  "aggero_civis": {
+    "enabled": false,
+    "value": "Calcar coniecto cogo armarium vociferor victoria degero demonstro auditor.",
+    "priority": 8,
+    "tags": [
+      "callide",
+      "aqua"
+    ]
+  },
+  "asper_timidus": {
+    "enabled": false,
+    "value": "Textor nihil rem dolorum quam suscipio acceptus sapiente.",
+    "priority": 0,
+    "tags": [
+      "depono",
+      "corrigo"
+    ]
+  },
+  "quas_cuppedia": {
+    "enabled": false,
+    "value": "Aureus uterque vulgus delectatio provident cribro sponte cubicularis currus tenuis.",
+    "priority": 4,
+    "tags": [
+      "avarus",
+      "aequitas"
+    ]
+  },
+  "curatio_cito": {
+    "enabled": true,
+    "value": "Caecus eius cogo utor.",
+    "priority": 10,
+    "tags": [
+      "decens",
+      "testimonium",
+      "delinquo",
+      "spectaculum",
+      "curriculum"
+    ]
+  }
+}

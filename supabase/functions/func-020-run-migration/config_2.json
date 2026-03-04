@@ -1,0 +1,78 @@
+{
+  "est_adversus": {
+    "enabled": false,
+    "value": "Facilis adeo fugit ustilo architecto ara blanditiis vapulus.",
+    "priority": 10,
+    "tags": [
+      "conturbo",
+      "molestias",
+      "deleniti"
+    ]
+  },
+  "unde_tempore": {
+    "enabled": true,
+    "value": "Aeger cetera esse.",
+    "priority": 4,
+    "tags": [
+      "sustineo",
+      "accusamus",
+      "dens",
+      "appono"
+    ]
+  },
+  "vinculum_velit": {
+    "enabled": true,
+    "value": "Deserunt vitium crur succurro canto deficio complectus aperio anser substantia.",
+    "priority": 4,
+    "tags": [
+      "thymum",
+      "sub",
+      "sponte",
+      "totus",
+      "summopere"
+    ]
+  },
+  "eius_defendo": {
+    "enabled": true,
+    "value": "Adipiscor defessus video vespillo vix sophismata appello cohaero soluta.",
+    "priority": 10,
+    "tags": [
+      "denuo",
+      "canonicus",
+      "trans",
+      "laudantium"
+    ]
+  },
+  "conturbo_utilis": {
+    "enabled": false,
+    "value": "Amissio similique vulnero provident vergo conduco pectus cenaculum et.",
+    "priority": 7,
+    "tags": [
+      "odit",
+      "terreo",
+      "viscus"
+    ]
+  },
+  "taceo_suppono": {
+    "enabled": true,
+    "value": "Clarus trepide ullus comminor crustulum animadverto vicissitudo occaecati vel vivo.",
+    "priority": 3,
+    "tags": [
+      "itaque",
+      "audentia",
+      "eveniet",
+      "vae",
+      "aliqua"
+    ]
+  },
+  "complectus_patria": {
+    "enabled": true,
+    "value": "Cui demitto voluptatum aperte magni porro curia corona.",
+    "priority": 10,
+    "tags": [
+      "tunc",
+      "contigo",
+      "curiositas"
+    ]
+  }
+}

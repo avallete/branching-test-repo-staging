@@ -1,0 +1,203 @@
+{
+  "dolor_arma": {
+    "enabled": false,
+    "value": "Mollitia decipio delectatio spoliatio decimus magnam absum.",
+    "priority": 3,
+    "tags": [
+      "argentum",
+      "coerceo",
+      "nulla",
+      "suffragium",
+      "abstergo"
+    ]
+  },
+  "vindico_accedo": {
+    "enabled": false,
+    "value": "Calco victus vulgo sum cras terror convoco strenuus facilis.",
+    "priority": 10,
+    "tags": [
+      "circumvenio",
+      "ustilo",
+      "vae"
+    ]
+  },
+  "inventore_ara": {
+    "enabled": true,
+    "value": "Bos tempus cur.",
+    "priority": 7,
+    "tags": [
+      "arguo",
+      "vinco",
+      "iusto"
+    ]
+  },
+  "ea_theca": {
+    "enabled": false,
+    "value": "Ultra cometes stips.",
+    "priority": 3,
+    "tags": [
+      "incidunt",
+      "virtus"
+    ]
+  },
+  "custodia_thymum": {
+    "enabled": false,
+    "value": "Villa victus sui inventore amissio aduro aer defendo coepi vel.",
+    "priority": 5,
+    "tags": [
+      "atrox",
+      "acervus",
+      "certus"
+    ]
+  },
+  "tristis_tamisium": {
+    "enabled": false,
+    "value": "Stella cunabula vesco corrumpo alienus admoveo articulus.",
+    "priority": 1,
+    "tags": [
+      "aeger",
+      "solio",
+      "ascit"
+    ]
+  },
+  "aliquid_voluptate": {
+    "enabled": false,
+    "value": "Calculus constans tametsi canis voluntarius.",
+    "priority": 4,
+    "tags": [
+      "recusandae",
+      "degusto",
+      "aptus"
+    ]
+  },
+  "ademptio_articulus": {
+    "enabled": false,
+    "value": "Urbs distinctio absens quam consuasor.",
+    "priority": 0,
+    "tags": [
+      "argumentum",
+      "via"
+    ]
+  },
+  "quisquam_sum": {
+    "enabled": true,
+    "value": "Illum pauci ipsa usitas rerum crinis custodia deputo bene.",
+    "priority": 3,
+    "tags": [
+      "pecto",
+      "contabesco",
+      "voluptatem",
+      "abscido"
+    ]
+  },
+  "arguo_ante": {
+    "enabled": false,
+    "value": "Utroque at teneo.",
+    "priority": 9,
+    "tags": [
+      "astrum",
+      "cogito",
+      "absconditus"
+    ]
+  },
+  "amor_summisse": {
+    "enabled": true,
+    "value": "Soluta trucido ullus deprecator ducimus dicta confido.",
+    "priority": 10,
+    "tags": [
+      "creo",
+      "comedo",
+      "arbitro"
+    ]
+  },
+  "curso_ancilla": {
+    "enabled": true,
+    "value": "Bibo curvo vomito degusto temperantia.",
+    "priority": 9,
+    "tags": [
+      "temperantia",
+      "solium"
+    ]
+  },
+  "vetus_urbs": {
+    "enabled": false,
+    "value": "Saepe temptatio admitto vigilo auxilium tracto ut tum civis.",
+    "priority": 1,
+    "tags": [
+      "cometes",
+      "commodi",
+      "velum",
+      "cur",
+      "audacia"
+    ]
+  },
+  "speculum_valens": {
+    "enabled": false,
+    "value": "Arx accusator carmen creber admiratio vigilo colo delectatio.",
+    "priority": 9,
+    "tags": [
+      "succedo",
+      "conforto"
+    ]
+  },
+  "taedium_arbustum": {
+    "enabled": true,
+    "value": "Conspergo aequus absconditus apud utor.",
+    "priority": 7,
+    "tags": [
+      "vox",
+      "voluptas"
+    ]
+  },
+  "denique_vulgus": {
+    "enabled": false,
+    "value": "Pauper arbustum curiositas voluptatum.",
+    "priority": 6,
+    "tags": [
+      "soleo",
+      "degusto",
+      "sursum",
+      "caute"
+    ]
+  },
+  "tergo_aspicio": {
+    "enabled": false,
+    "value": "Tamdiu angulus alioqui sopor.",
+    "priority": 5,
+    "tags": [
+      "adopto",
+      "aegre",
+      "theatrum"
+    ]
+  },
+  "pecco_vulnero": {
+    "enabled": true,
+    "value": "Somniculosus vaco ascit demo iure voluptatum.",
+    "priority": 9,
+    "tags": [
+      "desipio",
+      "audentia",
+      "commemoro"
+    ]
+  },
+  "tabernus_cupio": {
+    "enabled": true,
+    "value": "Conforto trucido canis aggero patrocinor brevis crinis admiratio blanditiis.",
+    "priority": 10,
+    "tags": [
+      "tumultus",
+      "cupiditate"
+    ]
+  },
+  "virtus_ascisco": {
+    "enabled": false,
+    "value": "Odio antiquus patrocinor ciminatio deficio aveho tumultus neque vociferor.",
+    "priority": 10,
+    "tags": [
+      "talus",
+      "voluptatibus",
+      "sunt",
+      "vesica"
+    ]
+  }
+}

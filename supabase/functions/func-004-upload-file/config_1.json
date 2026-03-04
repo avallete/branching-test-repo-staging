@@ -1,0 +1,143 @@
+{
+  "minus_astrum": {
+    "enabled": true,
+    "value": "Claudeo appono victus cognomen bellum cubo vestigium summopere amita appello.",
+    "priority": 2,
+    "tags": [
+      "valeo",
+      "adinventitias",
+      "earum",
+      "dedecor",
+      "suus"
+    ]
+  },
+  "ultio_abeo": {
+    "enabled": false,
+    "value": "Cursus catena tenuis aiunt cogo eum texo.",
+    "priority": 0,
+    "tags": [
+      "cedo",
+      "accommodo",
+      "certus",
+      "abbas",
+      "aptus"
+    ]
+  },
+  "urbanus_via": {
+    "enabled": false,
+    "value": "Creptio taceo vitium.",
+    "priority": 4,
+    "tags": [
+      "arcus",
+      "vinculum",
+      "defleo",
+      "amplexus",
+      "inflammatio"
+    ]
+  },
+  "suscipit_via": {
+    "enabled": true,
+    "value": "Summa alias appositus totidem conscendo vestigium deputo demum.",
+    "priority": 0,
+    "tags": [
+      "decretum",
+      "auctor",
+      "uxor",
+      "crinis",
+      "sophismata"
+    ]
+  },
+  "alter_ter": {
+    "enabled": false,
+    "value": "Veritas ater decipio eos degenero adhaero balbus vicissitudo.",
+    "priority": 7,
+    "tags": [
+      "viscus",
+      "terra",
+      "facilis"
+    ]
+  },
+  "amplitudo_corrumpo": {
+    "enabled": true,
+    "value": "Sumo speciosus totidem volubilis ustulo altus trans tenuis.",
+    "priority": 9,
+    "tags": [
+      "infit",
+      "ulciscor",
+      "suasoria",
+      "summopere",
+      "paens"
+    ]
+  },
+  "laudantium_earum": {
+    "enabled": true,
+    "value": "Decerno cenaculum timor verbera.",
+    "priority": 6,
+    "tags": [
+      "ater",
+      "comes"
+    ]
+  },
+  "uxor_maiores": {
+    "enabled": false,
+    "value": "Voro tot cinis solutio occaecati tenus pecus subiungo claudeo.",
+    "priority": 3,
+    "tags": [
+      "animi",
+      "ab",
+      "atque"
+    ]
+  },
+  "damno_arma": {
+    "enabled": true,
+    "value": "Tergum iste numquam vel campana deorsum.",
+    "priority": 9,
+    "tags": [
+      "vestigium",
+      "aspernatur",
+      "comprehendo",
+      "umquam"
+    ]
+  },
+  "color_amitto": {
+    "enabled": true,
+    "value": "Urbs sunt adstringo tero attonbitus villa stillicidium assentator.",
+    "priority": 10,
+    "tags": [
+      "blanditiis",
+      "conor"
+    ]
+  },
+  "amissio_cibus": {
+    "enabled": true,
+    "value": "Subvenio vinum amaritudo arcus templum somniculosus.",
+    "priority": 5,
+    "tags": [
+      "cornu",
+      "deputo",
+      "cetera",
+      "colo",
+      "contego"
+    ]
+  },
+  "subseco_coniecto": {
+    "enabled": false,
+    "value": "Vesco dolor audio decipio similique.",
+    "priority": 3,
+    "tags": [
+      "ara",
+      "vilicus",
+      "denego"
+    ]
+  },
+  "praesentium_caelestis": {
+    "enabled": false,
+    "value": "Truculenter vorago paens.",
+    "priority": 2,
+    "tags": [
+      "teres",
+      "claudeo",
+      "sumptus"
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "cultura_comparo": {
+    "enabled": true,
+    "value": "Centum quam contra torqueo capillus eligendi campana totus calcar auditor.",
+    "priority": 5,
+    "tags": [
+      "tabula",
+      "timidus",
+      "solum",
+      "despecto",
+      "acer"
+    ]
+  },
+  "quas_depopulo": {
+    "enabled": false,
+    "value": "Arceo culpo cupio dens subiungo.",
+    "priority": 8,
+    "tags": [
+      "conculco",
+      "adficio",
+      "aperio",
+      "quisquam",
+      "inventore"
+    ]
+  },
+  "adulescens_vulnero": {
+    "enabled": false,
+    "value": "Adsuesco deporto pax cohaero turpis.",
+    "priority": 7,
+    "tags": [
+      "tenuis",
+      "ceno",
+      "demum",
+      "solutio",
+      "vorax"
+    ]
+  },
+  "virgo_sortitus": {
+    "enabled": true,
+    "value": "Vulgaris causa cibo vulgivagus crudelis cultellus necessitatibus adopto adaugeo.",
+    "priority": 10,
+    "tags": [
+      "terebro",
+      "conventus",
+      "canto",
+      "tabesco"
+    ]
+  },
+  "casso_doloremque": {
+    "enabled": false,
+    "value": "Clarus umbra spero trucido.",
+    "priority": 7,
+    "tags": [
+      "adipisci",
+      "adipiscor",
+      "benigne"
+    ]
+  },
+  "vita_aestas": {
+    "enabled": false,
+    "value": "Curso accommodo demitto.",
+    "priority": 3,
+    "tags": [
+      "depono",
+      "cena",
+      "cur",
+      "adicio",
+      "supplanto"
+    ]
+  },
+  "curto_amita": {
+    "enabled": false,
+    "value": "Administratio capitulus curso arbitro aeternus accusator aegrotatio coaegresco.",
+    "priority": 8,
+    "tags": [
+      "coruscus",
+      "crebro",
+      "minima"
+    ]
+  },
+  "tergum_eveniet": {
+    "enabled": true,
+    "value": "Atrox auditor talis accedo atrocitas quae demo.",
+    "priority": 10,
+    "tags": [
+      "cuppedia",
+      "aer"
+    ]
+  },
+  "suffragium_altus": {
+    "enabled": false,
+    "value": "Vitae defungo accedo tutis varietas commemoro.",
+    "priority": 10,
+    "tags": [
+      "caelum",
+      "aspernatur"
+    ]
+  },
+  "currus_ara": {
+    "enabled": true,
+    "value": "Arma tandem thema tametsi.",
+    "priority": 8,
+    "tags": [
+      "approbo",
+      "magnam"
+    ]
+  },
+  "veritas_crur": {
+    "enabled": true,
+    "value": "Tandem concedo spargo qui sollers.",
+    "priority": 0,
+    "tags": [
+      "volup",
+      "capitulus",
+      "curia",
+      "demulceo",
+      "tabernus"
+    ]
+  },
+  "cribro_minima": {
+    "enabled": false,
+    "value": "Decumbo caput vitiosus adiuvo cognatus tum crebro delinquo adsum.",
+    "priority": 7,
+    "tags": [
+      "damno",
+      "alioqui",
+      "tenus",
+      "accusamus"
+    ]
+  },
+  "timor_repellat": {
+    "enabled": false,
+    "value": "Demum conforto accusamus delinquo adipiscor sopor cribro usus vester uberrime.",
+    "priority": 10,
+    "tags": [
+      "cribro",
+      "vulgivagus"
+    ]
+  },
+  "callide_vulnus": {
+    "enabled": true,
+    "value": "Quod vita constans quis.",
+    "priority": 2,
+    "tags": [
+      "sono",
+      "tempore"
+    ]
+  },
+  "atqui_audeo": {
+    "enabled": true,
+    "value": "Appositus tamisium cognomen.",
+    "priority": 4,
+    "tags": [
+      "summa",
+      "depraedor",
+      "bardus",
+      "ager"
+    ]
+  },
+  "valetudo_assumenda": {
+    "enabled": true,
+    "value": "Theatrum delinquo velociter pax communis color alienus decerno nihil.",
+    "priority": 3,
+    "tags": [
+      "fuga",
+      "vitae",
+      "deinde",
+      "damno"
+    ]
+  },
+  "temeritas_venia": {
+    "enabled": true,
+    "value": "Paens sordeo voco vesper armarium civis argumentum aegrus thymum tamisium.",
+    "priority": 5,
+    "tags": [
+      "vel",
+      "umquam",
+      "dolor",
+      "amicitia",
+      "vado"
+    ]
+  },
+  "cohaero_deputo": {
+    "enabled": true,
+    "value": "Aegrus delectus laborum animi animadverto centum id somniculosus defaeco.",
+    "priority": 4,
+    "tags": [
+      "congregatio",
+      "soluta",
+      "ex",
+      "provident"
+    ]
+  },
+  "animus_aperio": {
+    "enabled": true,
+    "value": "Adaugeo uberrime viscus officia.",
+    "priority": 1,
+    "tags": [
+      "congregatio",
+      "clam"
+    ]
+  }
+}

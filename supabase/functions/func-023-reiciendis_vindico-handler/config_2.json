@@ -1,0 +1,139 @@
+{
+  "consuasor_capitulus": {
+    "enabled": false,
+    "value": "Tutamen stillicidium curia venio aliquam beneficium.",
+    "priority": 9,
+    "tags": [
+      "vix",
+      "summisse",
+      "tui",
+      "cerno"
+    ]
+  },
+  "tutamen_cupiditas": {
+    "enabled": true,
+    "value": "Balbus cupressus clarus apostolus sublime quae bellicus.",
+    "priority": 10,
+    "tags": [
+      "peccatus",
+      "sequi",
+      "tenuis"
+    ]
+  },
+  "trado_truculenter": {
+    "enabled": true,
+    "value": "At vesica custodia victoria appello caterva vilicus aestivus dedico.",
+    "priority": 0,
+    "tags": [
+      "adimpleo",
+      "vulgaris",
+      "usitas",
+      "vesper"
+    ]
+  },
+  "cogito_coniecto": {
+    "enabled": false,
+    "value": "Vel ubi angulus catena sursum adicio amet accusator paulatim creator.",
+    "priority": 1,
+    "tags": [
+      "suadeo",
+      "templum",
+      "iure",
+      "corrumpo",
+      "tam"
+    ]
+  },
+  "compello_vigor": {
+    "enabled": true,
+    "value": "Eos sint repudiandae confero careo tepesco tribuo comitatus.",
+    "priority": 9,
+    "tags": [
+      "una",
+      "ante",
+      "uredo"
+    ]
+  },
+  "pecco_calcar": {
+    "enabled": false,
+    "value": "Viriliter adiuvo tabesco est fuga tamisium.",
+    "priority": 1,
+    "tags": [
+      "cupiditas",
+      "defero",
+      "amicitia",
+      "tepesco",
+      "tantum"
+    ]
+  },
+  "deprimo_vindico": {
+    "enabled": false,
+    "value": "Atrocitas tenus demo velut theologus sto trans video.",
+    "priority": 7,
+    "tags": [
+      "tener",
+      "delibero",
+      "unus"
+    ]
+  },
+  "vinum_allatus": {
+    "enabled": true,
+    "value": "Umerus talis conscendo abbas celo tergiversatio.",
+    "priority": 5,
+    "tags": [
+      "capitulus",
+      "demens",
+      "vesper",
+      "cogo",
+      "agnosco"
+    ]
+  },
+  "beatae_atqui": {
+    "enabled": true,
+    "value": "Aveho crux amita ipsum tactus curso sortitus.",
+    "priority": 4,
+    "tags": [
+      "tenax",
+      "aequitas"
+    ]
+  },
+  "patior_umbra": {
+    "enabled": false,
+    "value": "Desidero aegre vitiosus textor ultra delicate vis clam.",
+    "priority": 4,
+    "tags": [
+      "canto",
+      "solio"
+    ]
+  },
+  "argumentum_adduco": {
+    "enabled": false,
+    "value": "Suffoco crinis volaticus.",
+    "priority": 2,
+    "tags": [
+      "ventosus",
+      "comburo",
+      "usitas",
+      "denuncio",
+      "possimus"
+    ]
+  },
+  "cui_capio": {
+    "enabled": true,
+    "value": "Architecto advenio atrox vitae.",
+    "priority": 2,
+    "tags": [
+      "dedico",
+      "universe"
+    ]
+  },
+  "damno_admitto": {
+    "enabled": true,
+    "value": "Complectus casso cultura coma.",
+    "priority": 5,
+    "tags": [
+      "colligo",
+      "audacia",
+      "paulatim"
+    ]
+  }
+}

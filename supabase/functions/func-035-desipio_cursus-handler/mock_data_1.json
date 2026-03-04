@@ -1,0 +1,37 @@
+[
+  {
+    "id": "6a6d7f0a-69ae-41f2-938f-e7187492add7",
+    "name": "Bradford Emmerich",
+    "email": "Ebba73@gmail.com",
+    "score": 73.59,
+    "active": false
+  },
+  {
+    "id": "69a446b3-eaef-4456-a145-ffa9b42d1d27",
+    "name": "Milton Bechtelar",
+    "email": "Riley_Hilll@gmail.com",
+    "score": 16.08,
+    "active": true
+  },
+  {
+    "id": "61ead4b0-e195-464e-83ba-ced778d3f385",
+    "name": "Janice Breitenberg",
+    "email": "Bud78@yahoo.com",
+    "score": 47.15,
+    "active": true
+  },
+  {
+    "id": "aa397668-c608-4203-98aa-861b1cf93ed9",
+    "name": "Dr. Homer Buckridge",
+    "email": "Josefina.Lesch@hotmail.com",
+    "score": 78.39,
+    "active": false
+  },
+  {
+    "id": "954d3503-0397-4a71-9ab3-26e7e472ba6b",
+    "name": "Wanda Prosacco V",
+    "email": "Sadie18@yahoo.com",
+    "score": 70.03,
+    "active": true
+  }
+]
